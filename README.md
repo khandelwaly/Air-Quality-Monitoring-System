@@ -5,6 +5,6 @@ In this project we uses IBM cloud.
   2. MQ135 Gas Senser
   3. 16x2 LCD 
   4. ESP8266 ESP-01 wifi module
-Software Used:-
+# Software Used:-
   1. IBM Cloud
   2. Arduino IDE

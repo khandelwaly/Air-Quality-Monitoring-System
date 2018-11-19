@@ -8,12 +8,12 @@
 #include <LiquidCrystal.h>
 LiquidCrystal lcd(13, 12, 6, 5, 4, 3); // LCD connections
 
-#define ORG "f3crhx"
-#define DEVICE_TYPE "Arduino"
-#define DEVICE_ID "air"
-#define TOKEN "K8cqOCMGhaKEYLLjfO"
-#define WIFI_AP "Red"
-#define WIFI_PASSWORD "11111111"
+#define ORG "xxxxxx"//replace with your organization id
+#define DEVICE_TYPE "Arduino"//replace with your device type
+#define DEVICE_ID "air"//replace with your device id
+#define TOKEN "K8cqOCMGhaKEYLLjfO"//replace with your TOKEN number
+#define WIFI_AP "Red"//replace with your hotspot name
+#define WIFI_PASSWORD "11111111"//replace with your hotspot password
          
 WiFiEspClient espClient;
 
